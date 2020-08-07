@@ -13,15 +13,20 @@
 ## Technologies & Tools :
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<i class="fab fa-python"></i>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p><p alig
+<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/python.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/pycharm.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/flutter.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/dart.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/html5.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/css3.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/css3.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/androidstudio.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/android.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/sublimetext.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/visualstudiocode.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/linux.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/apache.svg" />
+<img height="44" width="44" src="https://unpkg.com/browse/simple-icons@3.4.0/icons/gnubash.svg" />
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Ziani52&show_icons=true alt=Oxtz /> </p>
