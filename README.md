@@ -22,15 +22,14 @@
 
 <p align="center">
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/python.svg" />
-<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/pycharm.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/flutter.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/go.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/dart.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/html5.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" />
-<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" />
-<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/androidstudio.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/android.svg" />
+<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/pycharm.svg" />
+<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/androidstudio.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/sublimetext.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/visualstudiocode.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/linux.svg" />
