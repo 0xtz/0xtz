@@ -9,14 +9,14 @@
 
 <h1 align="center"> 🌱 I’m currently learning </h1>
   <p align="center">
-    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/django.svg" />
-    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/javascript.svg" />
-    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/mysql.svg" />
+    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/django.svg" /> &nbsp; &nbsp;
+    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/javascript.svg" /> &nbsp; &nbsp;
+    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/mysql.svg" /> &nbsp; &nbsp;
   </p>
 
 <h1 align="center"> 📫 How to reach me: </h1>
 <p align="center"> Send Me a messsage 😄 <br> <a href="https://twitter.com/0xtz_52"><img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
-<br> <a href="https://www.instagram.com/0xtz.52/"> <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/instagram.svg" > </a> </p>
+&nbsp; &nbsp; <a href="https://www.instagram.com/0xtz.52/"> <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/instagram.svg" > </a> </p>
 
 ## Technologies & Tools :
 
