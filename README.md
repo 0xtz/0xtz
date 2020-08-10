@@ -21,13 +21,14 @@
 ## Technologies & Tools :
 
 <p align="center">
-<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/python.svg" />
+<img align="left" alt="Python" width="44" heigth="44" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/flutter.svg" />
-<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/go.svg" />
+<img height="44" width="44" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/dart.svg" />
-<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/html5.svg" />
+<img height="44" width="44" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" />
-<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/android.svg" />
+<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
+<img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/android.svg" /> 
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/pycharm.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/androidstudio.svg" />
 <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/sublimetext.svg" />
