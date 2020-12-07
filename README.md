@@ -5,7 +5,7 @@
 
 <h1 align="center"> I'm a Student's, 17 years old </h1>
 
-<h1 align="center"> 🔭 I’m currently working on lbac a ghoya</h1>
+<h1 align="center"> 🔭 I’m currently working on `lbac a ghoya`</h1>
 
 <h1 align="center"> 🌱 I’m currently learning </h1>
   <p align="center">
