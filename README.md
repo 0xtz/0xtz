@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ziani52" alt="@xtz" /> </p>
 <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
 
-<h1 align="center"> I'm a Student's, 17 years old </h1>
+<h1 align="center"> I'm a Student's, 18 years old </h1>
 
 <h1 align="center"> 🔭 I’m currently working on `lbac a ghoya`</h1>
 
