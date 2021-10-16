@@ -38,7 +38,7 @@
 <img alt="Bash" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/gnubash.svg" />
 </p>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Ziani52&show_icons=true alt=Oxtz /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=0xtz&show_icons=true alt=Oxtz /> </p>
 
 ![](https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/wave.svg)
 
