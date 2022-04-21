@@ -1,45 +1,93 @@
-<h1 align="center"> Hi there, I'm Ziani Taha @0xtz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# welcome to 0xtz's world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ziani52" alt="@xtz" /> </p>
-<p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
+-
 
-<h1 align="center"> I'm a Student's, 18 years old </h1>
+## A little about me...
 
-<h1 align="center"> 🔭 I’m currently working on `lbac a ghoya`</h1>
+```python
+@dataclass
+class oxtz(PythonDeveloper):
+    name : "0xtz"
+    age : "Old enough to be here hhh"
+    location : "Morocoo, Rabat"
+    work : Null # for now haha
+    company : Null # for now
 
-<h1 align="center"> 🌱 I’m currently learning </h1>
-  <p align="center">
-    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/django.svg" /> &nbsp; &nbsp;
-    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/javascript.svg" /> &nbsp; &nbsp;
-    <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/mysql.svg" /> &nbsp; &nbsp;
-  </p>
+    #
+    os : "Linux, Debian" # mainly Kali
+    currentlyLearning : [
+        "FastAPI",
+        "Django",
+        "KivyMd",
+        "MySql"
+    ]
+    def usedTechlologys(self):
+        return {
+            "databases" : ["sqlite"],
+            "frontEnd" : [ "SASS/SCSS", "CSS", "HTML", "Figma"],
+            "backEnd" : ["Python", "Django", "Flask", "FastAPI", "MySql"],
+            "devOps" : ["Docker🐳", "Apache"]
+        }
+    def howToContact(self):
+        return {
+            "Email" : 0xtz.52@gmail.com",
+            "Twitter" : "@0xtz",
+            "Github" : "0xtz_52",
+            "Instagram" : "@0xtz.52",
+        #    "LinkedIn" : "0xtz-52" no linkedin rn
+        }
 
-<h1 align="center"> 📫 How to reach me: </h1>
-<p align="center"> Send Me a messsage 😄 <br> <a href="https://twitter.com/0xtz_52"><img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
-&nbsp; &nbsp; <a href="https://www.instagram.com/0xtz.52/"> <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/instagram.svg" > </a> </p>
+    def intrestedIn(self):
+        return {
+            "Programming" : "I'm interested in Backend and Data Visualization etc",
+            "CyberSec" : "I like to know how to break things to learn how to build solid ones and how to protect them, avoid them and how to make them secure",
+            "Other" : "in Tech in general, i like the idea of learning new things"
+        }
+    def currentFocus(self):
+        return {
+            "Programming" : "I'm currently focused on learning how to build a backend with Django and FastAPI, and making Desktop Apps with PyQt",
+            "Other" : "Focusing on getting better at Python, and learning new things, and Get Skills to to apply to a Job as a Developer and make my own projects."
+        }
 
-## Technologies & Tools :
+```
 
-<p align="center">
-<img  alt="Python" width="44" heigth="44" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
-<img  alt="Flutter" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/flutter.svg" />
-<img  alt="Go" height="44" width="44" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go-old/go-old.svg" />
-<img alt="Dart" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/dart.svg" />
-<img alt="Html" height="44" width="44" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" />
-<img alt="Css" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" />
-<img alt="Heruku" height="44" width="44" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
-<img alt="Android" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/android.svg" /> 
-<img alt="Pycharm" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/pycharm.svg" />
-<img alt="AndroidStudio" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/androidstudio.svg" />
-<img alt="Subl" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/sublimetext.svg" />
-<img alt=VsCode"" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/visualstudiocode.svg" />
-<img alt="Linux" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/linux.svg" />
-<img alt="Apache" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/apache.svg" />
-<img alt="Bash" height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/gnubash.svg" />
-</p>
+-
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=0xtz&show_icons=true alt=Oxtz /> </p>
+# Technologies & Tools
 
-![](https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/wave.svg)
+Python
+Flutter
+Golang
+HTML CSS
+VIM
 
-<p align="center"> thanks to <a href="https://github.com/punitkmryh"> punitkmryh </a> </p>
+-
+
+# How to reach me ?
+
+DM me, easy
+
+### social media links
+
+instagrame :
+twitter :
+Discord :
+whatsApp :
+
+--
+
+## python theme
+
+#!/usr/bin/python
+
+# top in-demand skills include
+
+Python (Django)
+Ruby (Ruby on Rails)
+HTML
+CSS
+SQL (MySQL, NoSQL, etc.)
+Cloud technologies (AWS, Azure, etc.)
+Git
+PHP
+
