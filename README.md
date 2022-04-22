@@ -6,7 +6,7 @@
 
 ```python
 @dataclass
-class oxtz(PythonDeveloper):
+class 0xtz(PythonDeveloper):
     name : "0xtz"
     age : "Old enough to be here hhh"
     location : "Morocoo, Rabat"
