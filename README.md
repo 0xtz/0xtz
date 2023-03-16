@@ -7,7 +7,7 @@
       <a href="https://twitter.com/0xtz_52">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Account"/>
       </a>
-      <a href="https://www.instagram.com/0xtz.52/">
+      <a href="(https://www.instagram.com/0xtz_/)">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Account"/>
       </a>
     </div>
