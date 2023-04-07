@@ -15,66 +15,39 @@
 
 <div align="center" > <h2>👀 A little about me!</h2> </div>
 
-```python
-@dataclass
-class 0xtz(PythonDeveloper):
-    name : "0xtz"
-    age : "Old enough to be here hhh"
-    location : "Morocoo, Rabat"
-    work : Null # for now haha
-    company : Null # for now
+```ts
+interface IOxtz {
+    name: string;
+    location: string;
+    work: string;
+    os: string;
+    currentlyLearning: string[];
+    usedTechnologies: string[];
+    howToContact: Record < string,
+    string > ;
+}
 
-    #
-    os : "Linux, Debian" # mainly Kali
-    currentlyLearning : [
-        "FastAPI",
-        "Django",
-        "KivyMd",
-        "MySql"
-    ]
-    def usedTechlologys(self):
-        return {
-            "databases" : ["sqlite"],
-            "frontEnd" : [ "SASS/SCSS", "CSS", "HTML", "Figma"],
-            "backEnd" : ["Python", "Django", "Flask", "FastAPI", "MySql"],
-            "devOps" : ["Docker🐳", "Apache"]
-        }
-    def howToContact(self):
-        return {
-            "Email" : 0xtz.52@gmail.com",
-            "Twitter" : "@0xtz",
-            "Github" : "0xtz_52",
-            "Instagram" : "@0xtz.52" 
-            }
-
-    def intrestedIn(self):
-        return {
-            "Programming" : "I'm interested in Backend and Data Visualization etc",
-            "CyberSec" : "",
-            "Other" : "in Tech in general, i like the idea of learning new things"
-        }
-    def currentFocus(self):
-        return {
-            "Goals" : "Focusing on getting more Skills to apply for a Job as a Developer"
-        }
+const 0xtz: IOxtz = {
+    name: "0xtz",
+    location: "Morocco, Rabat",
+    work: "FullStack Developer",
+    os: "Linux, Debian",
+    currentlyLearning: [
+        "Express",
+        "MongoDB",
+        "PostgreSQL",
+        "Redis",
+    ],
+    usedTechnologies: [
+        "Ts/Js", "React", "Next.js", "HTML", "CSS", "SASS/SCSS", "Figma", "MySQL", "AWS", "Git", ...more
+    ],
+    howToContact: {
+        Email: "0xtz.52@gmail.com",
+        Twitter: "@0xtz_",
+        GitHub: "0xtz_",
+        Instagram: "@0xtz_",
+        PortFolio: "0xtz.me"
+    }
+};
 
 ```
-
--
-
-# Technologies & Tools
-
-Python
-Flutter
-Golang
-HTML CSS
-VIM
-
-# top in-demand skills include
-Python (Django)
-HTML
-CSS
-SQL (MySQL, NoSQL, etc.)
-Cloud technologies (AWS, Azure, etc.)
-Git
-PHP
