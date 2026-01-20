@@ -27,7 +27,7 @@ interface IOxtz {
     string > ;
 }
 
-const 0xtz: IOxtz = {
+const _0xtz: IOxtz = {
     name: "0xtz",
     location: "Morocco, Rabat",
     work: "FullStack Developer",
